@@ -16,8 +16,8 @@ funciona completamente desde la nube, de manera que no hay necesidad de
 instalar ni equipamientos ni software para utilizarlo.  Los únicos requisitos
 para administrar una cuenta son una conexión a internet y un navegador web.
 
-Típicamente el sistema se usa para llevar a cabo campañas publicitarias
-masivas, de manera similar a un anuncio por radio o televisión. 
+Se usa para hacer llamados telefónicos de manera masiva, típicamente para
+campañas publicitarias, encuestas y anuncios de todo tipo.
 
 
 
