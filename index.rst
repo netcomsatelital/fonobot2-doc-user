@@ -25,8 +25,7 @@ campañas publicitarias, encuestas y anuncios de todo tipo.
    :maxdepth: 2
    :caption: Tabla de contenidos:
 
-   basic-como-usar
-   basic-credito
+   resumen
    dashboard
 
 
