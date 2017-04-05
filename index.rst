@@ -26,6 +26,8 @@ campañas publicitarias, encuestas y anuncios de todo tipo.
    :caption: Tabla de contenidos:
 
    resumen
+   guia
+   navegacion
    dashboard
 
 

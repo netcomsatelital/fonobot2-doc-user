@@ -1,3 +1,5 @@
+.. _resumen:
+
 =======
 Resumen
 =======
@@ -6,7 +8,7 @@ Resumen
 
 .. _resumen-como-usar:
 
-Cómo se usa
+Modo de uso
 ===========
 
 En su forma más básica, sólo son necesarias dos cosas para para que el sistema
@@ -117,10 +119,10 @@ Crédito
 Al finalizar cada llamada, el sistema calculará el costo y lo descontará del
 crédito de la cuenta del usuario.  Cuando el crédito llegue a cero no se podrán
 realizar más llamadas.  Puede consultar el saldo de su crédito en cualquier
-momento en la :ref:`pantalla inicial <mod-dashboard>` de la aplicación, y puede
-cargar crédito en su cuenta a través de la :ref:`función de recarga de crédito
-<mod-recarga>`.  Las llamadas no atendidas **no** generan cargo alguno, es
-decir, su costo es cero.
+momento en la :ref:`pantalla de resumeno dashboard <mod-dashboard>` de la
+aplicación, y puede cargar crédito en su cuenta a través de la :ref:`función de
+recarga de crédito <mod-recarga>`.  Las llamadas no atendidas **no** generan
+cargo alguno, es decir, su costo es cero.
 
 El costo de la llamada dependerá de la cantidad de repeticiones del mensaje y
 de la tarifa vigente para el destino de la misma.  Por ejemplo, si se trata de
