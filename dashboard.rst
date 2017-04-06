@@ -18,8 +18,12 @@ cuenta.  Se muestra la siguiente información:
 - Cuáles son las campañas que tienen menor cantidad de números.  Cuando una
   campaña se queda sin números para llamar finaliza automáticamente.
 
+
 - Estadísticas por día de la semana.  Por cada día se grafica la cantidad
   relativa de llamadas:
+
+      .. image:: _static/screen-mod-dashboard-01.png
+        :align: center
     
     - La barra de color verde representa la cantidad de llamadas *entregadas*,
       es decir aquellas llamadas que fueron atendidas y escuchadas
@@ -28,7 +32,7 @@ cuenta.  Se muestra la siguiente información:
     - La barra de color celeste representa la cantidad de llamadas *atendidas*,
       es decir las llamadas en las que el oyente contestó el teléfono.
 
-    - La barra de color rojo representa la cantidad total de llamadas
+    - La barra de color naranja representa la cantidad total de llamadas
       *enviadas* a la red telefónica, pero que no pudieron concretarse por
       alguna razón ajena al sistema.  Suele ocurrir con números inválidos,
       dados de baja, o simplemente por problemas temporales de la red
@@ -42,3 +46,5 @@ cuenta.  Se muestra la siguiente información:
   días y horarios son los mejores para obtener la mejor respuesta de una
   campaña en particular.
 
+  .. image:: _static/screen-mod-dashboard-02.png
+    :align: center

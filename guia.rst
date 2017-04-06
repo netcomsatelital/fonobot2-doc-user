@@ -14,7 +14,7 @@ la interfaz web de la aplicación.  Se asume que la cuenta :ref:`tiene crédito
 
     - Si desea usar los números provistos por el sistema, seleccione la opción
       :guilabel:`Buscar en la guía telefónica`.  Siga los pasos de acuerdo a la
-      documentación del :ref:`filtrado de números telefónicos` para elegir
+      documentación del :ref:`filtrado de números telefónicos <numeros-gt>` para elegir
       específicamente a qué números llamar.
 
     - Si desea subir su propia lista en formato XLS o CSV, seleccione

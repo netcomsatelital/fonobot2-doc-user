@@ -27,6 +27,7 @@ campañas publicitarias, encuestas y anuncios de todo tipo.
 
    resumen
    guia
+   numeros
    navegacion
    dashboard
 
