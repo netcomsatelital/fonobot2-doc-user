@@ -10,6 +10,9 @@ Hay dos formas de obtener los números: una es a través de una de las guías
 telefónicas del sistema, y la otra es mediante una lista de números provista
 por el usuario.
 
+.. image:: _static/screen-wiz-numsrc.png
+  :align: center
+
 Para acceder poder cargar los números en una campaña existen dos métodos:
 
 - Crear una campaña mediante el *asistente para creación de campañas*, con el
@@ -22,9 +25,6 @@ Para acceder poder cargar los números en una campaña existen dos métodos:
 
 En ambos casos se le presentarán las opciones de selección y filtrado de
 números que se describen a continuación.
-
-.. image:: _static/screen-wiz-numsrc.png
-  :align: center
 
 
 
@@ -69,8 +69,8 @@ Opcionalmente le permite elegir sólo los números de un rubro determinado
 
 Seleccione el rubro en la lista desplegable :guilabel:`Tipo de número`, y la
 provincia, localidad y ciudad en las listas subsiguientes.  Pulse el botón
-:guilabel:`Filtrar` para tener contar la cantidad de números que se agregarían
-con esos criterios, y en la parte superior se mostrará la cantidad de números
+:guilabel:`Filtrar` para contar la cantidad de números que se agregarían con
+esos criterios, y en la parte superior se mostrará la cantidad de números
 encontrados.  Si desea seleccionar una serie de criterios diferente pulse el
 botón :guilabel:`Limpiar` para restablecer el formulario.
 
