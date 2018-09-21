@@ -30,8 +30,8 @@ números que se describen a continuación.
 
 .. _numeros-gt:
 
-Usar la guía telefónica del sistema
-===================================
+Usar la :index:`guía telefónica` del sistema
+============================================
 
 Seleccione la opción :guilabel:`Buscar en la guía telefónica` si desea copiar
 los números desde una de las guías telefónicas del sistema.  A continuación
@@ -184,8 +184,8 @@ filtrar y agregar los números a la lista de la campaña.
 
 .. _numeros-list:
 
-Usar su propia lista personalizada
-==================================
+Usar su propia :index:`lista personalizada`
+===========================================
 
 Si usted dispone de una base de datos de contactos con los números de teléfono
 a los que desea llamar, puede subirla al sistema para usarla en sus campañas

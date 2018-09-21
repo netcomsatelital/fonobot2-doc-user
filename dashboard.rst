@@ -19,7 +19,7 @@ cuenta.  Se muestra la siguiente información:
   campaña se queda sin números para llamar finaliza automáticamente.
 
 
-- Estadísticas por día de la semana.  Por cada día se grafica la cantidad
+- :index:`Estadísticas` por día de la semana.  Por cada día se grafica la cantidad
   relativa de llamadas:
 
       .. image:: _static/screen-mod-dashboard-01.png
@@ -40,7 +40,7 @@ cuenta.  Se muestra la siguiente información:
       la celda donde está conectado, problemas en el cableado o la central
       telefónica del cliente, etc.).
 
-- Estadísticas por hora.  Análogo a las estadísticas por día de la semana, pero
+- :index:`Estadísticas` por hora.  Análogo a las estadísticas por día de la semana, pero
   mostrando un resumen de las mejores horas para llamar.  Combinando esta
   información con la de la estadística anterior se puede tener una idea de qué
   días y horarios son los mejores para obtener la mejor respuesta de una
